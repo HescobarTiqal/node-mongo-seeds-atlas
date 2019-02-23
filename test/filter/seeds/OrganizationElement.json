@@ -1,0 +1,71 @@
+[
+  {
+    "_id" : {"$oid":"5bda6322645e6b2e6026e1bd"},
+    "children" : [
+        {"$oid":"5bda6417645e6b2e6026e1be"},
+        {"$oid":"5bda6454645e6b2e6026e1c0"},
+        {"$oid":"5bda6685fccaa442182c4f70"}
+    ],
+    "items" : [],
+    "name" : "A.C.I PROYECTOS",
+    "state" : "Activo",
+    "parent" : null,
+    "tenantId" : "5bb174976fe56d125f709f40"
+},
+{
+    "_id" : {"$oid":"5bda6417645e6b2e6026e1be"},
+    "children" : [],
+    "items" : [],
+    "name" : "Sección (Dirección)",
+    "state" : "Activo",
+    "parent" : {"$oid":"5bda6322645e6b2e6026e1bd"},
+    "tenantId" : "5bb174976fe56d125f709f40"
+},
+{
+    "_id" : {"$oid":"5bda6454645e6b2e6026e1c0"},
+    "children" : [],
+    "items" : [
+      {"$oid":"5bda6742fccaa442182c4f73"}
+    ],
+    "name" : "Dependencia productora",
+    "state" : "Activo",
+    "parent" : {"$oid":"5bda6322645e6b2e6026e1bd"},
+    "tenantId" : "5bb174976fe56d125f709f40"
+},
+{
+    "_id" : {"$oid":"5bda6685fccaa442182c4f70"},
+    "children" : [],
+    "items" : [
+        {"$oid":"5bda66eefccaa442182c4f71"},
+        {"$oid":"5bda6783fccaa442182c4f75"},
+        {"$oid":"5bda6798fccaa442182c4f76"},
+        {"$oid":"5bda67bbfccaa442182c4f77"},
+        {"$oid":"5bda67dcfccaa442182c4f78"}
+    ],
+    "name" : "Series",
+    "state" : "Activo",
+    "parent" : {"$oid":"5bda6322645e6b2e6026e1bd"},
+    "tenantId" : "5bb174976fe56d125f709f40"
+},
+{
+    "_id" : {"$oid":"5bda6966fccaa442182c4f79"},
+    "children" : [
+      {"$oid":"5bda6ac3fccaa442182c4f7a"}
+    ],
+    "items" : [],
+    "name" : "A.C.I PROYECTOS - PERÚ",
+    "state" : "Activo",
+    "parent" : null,
+    "tenantId" : "5bb174976fe56d125f709f40"
+},
+{
+    "_id" : {"$oid":"5bda6ac3fccaa442182c4f7a"},
+    "children" : [],
+    "items" : [],
+    "name" : "Departamento",
+    "state" : "Activo",
+    "parent" : {"$oid":"5bda6966fccaa442182c4f79"},
+    "tenantId" : "5bb174976fe56d125f709f40"
+}
+
+]

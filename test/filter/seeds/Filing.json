@@ -1,0 +1,30 @@
+[
+  {
+    "_id" : {"$oid":"5bda6d1cfccaa442182c4f7c"},
+    "name" : "Bodega A1",
+    "description" : "Ubicado en la calle 3 # 42 -44 de la ciudad de cali",
+    "state" : true,
+    "tenantId" : "5bb174976fe56d125f709f40"
+},
+{
+    "_id" : {"$oid":"5bda6d2bfccaa442182c4f7d"},
+    "name" : "Bodega B1",
+    "description" : "Ubicado en la calle 3 # 42 -44 de la ciudad de cali",
+    "state" : true,
+    "tenantId" : "5bb174976fe56d125f709f40"
+},
+{
+    "_id" : {"$oid":"5bda6d39fccaa442182c4f7e"},
+    "name" : "Armario C3",
+    "description" : "Ubicado en la calle 3 # 42 -44 de la ciudad de cali",
+    "state" : true,
+    "tenantId" : "5bb174976fe56d125f709f40"
+},
+{
+    "_id" : {"$oid":"5bda6d55fccaa442182c4f7f"},
+    "name" : "Cajon R3",
+    "description" : "Ubicado en la calle 3 # 42 -44 de la ciudad de cali",
+    "state" : true,
+    "tenantId" : "5bb174976fe56d125f709f40"
+}
+]

@@ -1,0 +1,60 @@
+[{
+  "_id" : {"$oid":"5bda7dd8fccaa442182c4f9c"},
+  "childrenFolder" : [],
+  "files" : [],
+  "name" : "Prolongación Av ciudad de Cali",
+  "subseriesId" : {"$oid":"5bda76d5fccaa442182c4f82"},
+  "parentFolder" : null,
+  "tenantId" : "5bb174976fe56d125f709f40",
+  "pathInfo" : "120_01_01_GESTION_DE_PROYECTOS/Prolongacion_Av_ciudad_de_Cali"
+},
+{
+  "_id" : {"$oid":"5bda7e22fccaa442182c4f9e"},
+  "childrenFolder" : [],
+  "files" : [],
+  "name" : "Tiqal-Daruma",
+  "subseriesId" : {"$oid":"5bda76d5fccaa442182c4f82"},
+  "parentFolder" : null,
+  "tenantId" : "5bb174976fe56d125f709f40",
+  "pathInfo" : "120_01_01_GESTION_DE_PROYECTOS/Tiqal_Daruma"
+},
+{
+  "_id" : {"$oid":"5bda7e48fccaa442182c4f9f"},
+  "childrenFolder" : [],
+  "files" : [],
+  "name" : "Ampliación de la Vía al Mar",
+  "subseriesId" : {"$oid":"5bda76d5fccaa442182c4f82"},
+  "parentFolder" : null,
+  "tenantId" : "5bb174976fe56d125f709f40",
+  "pathInfo" : "120_01_01_GESTION_DE_PROYECTOS/Ampliacion_de_la_Via_al_Mar"
+},
+{
+  "_id" : {"$oid":"5bda7e5afccaa442182c4fa0"},
+  "childrenFolder" : [],
+  "files" : [],
+  "name" : "Puente de la Carrera 100 con Calle 25",
+  "subseriesId" : {"$oid":"5bda76d5fccaa442182c4f82"},
+  "parentFolder" : null,
+  "tenantId" : "5bb174976fe56d125f709f40",
+  "pathInfo" : "120_01_01_GESTION_DE_PROYECTOS/Puente_de_la_Carrera_100_con_Calle_25"
+},
+{
+  "_id" : {"$oid":"5bda7e72fccaa442182c4fa1"},
+  "childrenFolder" : [],
+  "files" : [],
+  "name" : "Puente de Chipichape",
+  "subseriesId" : {"$oid":"5bda76d5fccaa442182c4f82"},
+  "parentFolder" : null,
+  "tenantId" : "5bb174976fe56d125f709f40",
+  "pathInfo" : "120_01_01_GESTION_DE_PROYECTOS/Puente_de_Chipichape"
+},
+{
+  "_id" : {"$oid":"5bda7e79fccaa442182c4fa2"},
+  "childrenFolder" : [],
+  "files" : [],
+  "name" : "metadockit",
+  "subseriesId" : {"$oid":"5bda76d5fccaa442182c4f82"},
+  "parentFolder" : null,
+  "tenantId" : "5bb174976fe56d125f709f40",
+  "pathInfo" : "120_01_01_GESTION_DE_PROYECTOS/metadockit"
+}]

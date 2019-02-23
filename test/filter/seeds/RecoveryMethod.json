@@ -1,0 +1,16 @@
+[
+{
+  "_id" : {"$oid":"5bda6e4afccaa442182c4f80"},
+  "name" : "Cliente",
+  "description" : "permite realizar búsquedas por clientes especifico ",
+  "state" : "Activo",
+  "tenantId" : "5bb174976fe56d125f709f40"
+},
+{
+  "_id" : {"$oid":"5bda6f0dfccaa442182c4f81"},
+  "name" : "Fecha de radicacion ",
+  "description" : "permite la búsqueda por la fecha de radicacion ",
+  "state" : "Activo",
+  "tenantId" : "5bb174976fe56d125f709f40"
+}
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "_id" : {"$oid":"5bda7caafccaa442182c4f97"},
+    "files" : [],
+    "checklist" : [
+        "Criterios de calidad"
+    ],
+    "signatures" : [
+        "Rol lider"
+    ],
+    "forms" : [
+        "Análisis de impacto",
+        "Clasificacion de causas"
+    ],
+    "filenameExtension" : [
+        "xmls",
+        "pdf",
+        "docx"
+    ],
+    "templates" : [
+      {"$oid":"5bbe11f66b032f2b900617da"}
+    ],
+    "subseriesId" : {"$oid":"5bda76d5fccaa442182c4f82"},
+    "name" : "Propuesta comercial, propuesta técnica y económica",
+    "notes" : "se espera que se cuelguen los siguientes documentos Propuesta comercial, propuesta técnica y económica",
+    "state" : "Activo",
+    "tenantId" : "5bb174976fe56d125f709f40"
+},
+{
+    "_id" : {"$oid":"5bda7cbefccaa442182c4f99"},
+    "files" : [],
+    "checklist" : [
+        "Criterios de calidad"
+    ],
+    "signatures" : [
+        "Rol lider",
+        "Rol lider 2"
+    ],
+    "forms" : [
+        "Plan de proyecto 2",
+        "Análisis de impacto",
+        "Clasificacion de causas"
+    ],
+    "filenameExtension" : [
+        "xmls",
+        "pdf",
+        "docx"
+    ],
+    "templates" : [
+      {"$oid":"5bbe11f66b032f2b900617da"}
+    ],
+    "subseriesId" : {"$oid":"5bda76d5fccaa442182c4f82"},
+    "name" : "Acta de inicio",
+    "notes" : "Acta de inicio",
+    "state" : "Activo",
+    "tenantId" : "5bb174976fe56d125f709f40"
+},
+{
+    "_id" : {"$oid":"5bda7cd3fccaa442182c4f9a"},
+    "files" : [],
+    "checklist" : [
+        "Criterios de calidad",
+        "Criterios de calidad 2"
+    ],
+    "signatures" : [
+        "Rol lider",
+        "Rol lider 2"
+    ],
+    "forms" : [
+        "Análisis de impacto",
+        "Clasificacion de causas"
+    ],
+    "filenameExtension" : [
+        "xmls",
+        "pdf",
+        "docx"
+    ],
+    "templates" : [
+      {"$oid":"5bbe11f66b032f2b900617da"}
+    ],
+    "subseriesId" : {"$oid":"5bda76d5fccaa442182c4f82"},
+    "name" : "Contrato obra",
+    "notes" : "Contrato obra",
+    "state" : "Activo",
+    "tenantId" : "5bb174976fe56d125f709f40"
+},
+{
+    "_id" : {"$oid":"5bda7cebfccaa442182c4f9b"},
+    "files" : [],
+    "checklist" : [
+        "Criterios de calidad",
+        "Criterios de calidad 2"
+    ],
+    "signatures" : [
+        "Rol lider",
+        "Rol lider 2"
+    ],
+    "forms" : [
+        "Plan de proyecto",
+        "Plan de proyecto 2",
+        "Análisis de impacto",
+        "Clasificacion de causas"
+    ],
+    "filenameExtension" : [
+        "xmls",
+        "pdf",
+        "docx"
+    ],
+    "templates" : [
+      {"$oid":"5bbe11f66b032f2b900617da"}
+    ],
+    "subseriesId" : {"$oid":"5bda76d5fccaa442182c4f82"},
+    "name" : "Contrato de interventoría ",
+    "notes" : "Contrato de interventoría ",
+    "state" : "Activo",
+    "tenantId" : "5bb174976fe56d125f709f40"
+}
+]

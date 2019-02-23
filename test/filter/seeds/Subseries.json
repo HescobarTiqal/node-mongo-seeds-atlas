@@ -1,0 +1,534 @@
+[
+  {
+    "_id" : {"$oid":"5bda76d5fccaa442182c4f82"},
+    "documentsTypes" : [
+        {"$oid":"5bda7caafccaa442182c4f97"},
+        {"$oid":"5bda7cbefccaa442182c4f99"},
+        {"$oid":"5bda7cd3fccaa442182c4f9a"},
+        {"$oid":"5bda7cebfccaa442182c4f9b"}
+    ],
+    "folders" : [
+        {"$oid":"5bda7dd8fccaa442182c4f9c"},
+        {"$oid":"5bda7e22fccaa442182c4f9e"},
+        {"$oid":"5bda7e48fccaa442182c4f9f"},
+        {"$oid":"5bda7e5afccaa442182c4fa0"},
+        {"$oid":"5bda7e72fccaa442182c4fa1"},
+        {"$oid":"5bda7e79fccaa442182c4fa2"}
+    ],
+    "files" : [],
+    "finalDisposition" : [
+        "Selección y eliminacón"
+    ],
+    "typeFormat" : [
+        "Hibrido (físico + electrónico)"
+    ],
+    "processFiling" : [
+        "Almacenar bajo llave"
+    ],
+    "typesProtection" : [
+        "Almacén controlado"
+    ],
+    "forms" : [
+        "Análisis de impacto",
+        "Clasificacion de causas"
+    ],
+    "filenameExtension" : [
+        "xmls",
+        "pdf",
+        "docx"
+    ],
+    "teamsWork" : [
+        {"$oid":"5bda70c86e4fad189b0084f6"}
+    ],
+    "externalFormat" : [
+        "Acta de inicio",
+        "Acta de cierre"
+    ],
+    "recoveryMethod" : [
+        {"$oid":"5bda6e4afccaa442182c4f80"},
+        {"$oid":"5bda6f0dfccaa442182c4f81"}
+    ],
+    "managementFiling" : [
+        {"$oid":"5bda6d1cfccaa442182c4f7c"},
+        {"$oid":"5bda6d2bfccaa442182c4f7d"}
+    ],
+    "centralFiling" : [
+        {"$oid":"5bda6d1cfccaa442182c4f7c"},
+        {"$oid":"5bda6d2bfccaa442182c4f7d"},
+        {"$oid":"5bda6d39fccaa442182c4f7e"}
+    ],
+    "documents" : [
+        "PR-123: Elicitación"
+    ],
+    "processes" : [
+        "Gestion de soporte"
+    ],
+    "indexMark" : [
+        "Cliente",
+        "Producto"
+    ],
+    "templates" : [
+      {"$oid":"5bbe11f66b032f2b900617da"}
+    ],
+    "organization" : [
+        {
+            "_id" : {"$oid":"5bda76d5fccaa442182c4f84"},
+            "elementName" : "Dependencia productora",
+            "elementId" : {"$oid":"5bda6454645e6b2e6026e1c0"},
+            "itemName" : "GERENCIA DE CONSULTORIA INFRAESTRUCTURA",
+            "itemId" : {"$oid":"5bda6742fccaa442182c4f73"}
+        },
+        {
+            "_id" : {"$oid":"5bda76d5fccaa442182c4f83"},
+            "elementName" : "Series",
+            "elementId" : {"$oid":"5bda6685fccaa442182c4f70"},
+            "itemName" : "PROYECTOS",
+            "itemId" : {"$oid":"5bda66eefccaa442182c4f71"}
+        }
+    ],
+    "name" : "120-01-01 GESTIÓN DE PROYECTOS",
+    "code" : "01",
+    "managementTime" : 5,
+    "timeInCentral" : 5,
+    "informationSystem" : "Daruma Software",
+    "url" : "www.daruma.com",
+    "physicalAdministrator" : {"$oid":"5bb178a0050a951447e0712b"},
+    "digitalAdministrator" : {"$oid":"5bb177e4050a951447e0712a"},
+    "notes" : "Este repositorio tiene como objetivo contener y controlar los documentos como \n\nPropuesta comercial, propuesta técnica y económica\nActa de inicio\nContrato obra\nContrato de interventoría \nPólizas\nOtro si o modificaciones  \n\nde los proyectos de la organización ",
+    "state" : "Activo",
+    "tenantId" : "5bb174976fe56d125f709f40"
+},
+{
+    "_id" : {"$oid":"5bda77c9fccaa442182c4f85"},
+    "documentsTypes" : [],
+    "folders" : [],
+    "files" : [],
+    "finalDisposition" : [
+        "Selección y eliminacón",
+        "Digitalización y conservación"
+    ],
+    "typeFormat" : [
+        "Físico"
+    ],
+    "processFiling" : [
+        "procedimientos"
+    ],
+    "typesProtection" : [
+        "Almacén controlado"
+    ],
+    "forms" : [],
+    "filenameExtension" : [],
+    "teamsWork" : null,
+    "externalFormat" : [
+        "Acta de inicio",
+        "Acta de cierre"
+    ],
+    "recoveryMethod" : [
+        {"$oid":"5bda6e4afccaa442182c4f80"}
+    ],
+    "managementFiling" : [
+        {"$oid":"5bda6d1cfccaa442182c4f7c"},
+        {"$oid":"5bda6d39fccaa442182c4f7e"}
+    ],
+    "centralFiling" : [
+        {"$oid":"5bda6d2bfccaa442182c4f7d"},
+        {"$oid":"5bda6d39fccaa442182c4f7e"},
+        {"$oid":"5bda6d55fccaa442182c4f7f"}
+    ],
+    "documents" : [
+        "PR-123: Elicitación"
+    ],
+    "processes" : [
+        "Gestion de soporte"
+    ],
+    "indexMark" : [
+        "Cliente"
+    ],
+    "templates" : [],
+    "organization" : [
+        {
+            "_id" : {"$oid":"5bda77c9fccaa442182c4f87"},
+            "elementName" : "Dependencia productora",
+            "elementId" : {"$oid":"5bda6454645e6b2e6026e1c0"},
+            "itemName" : "GERENCIA DE CONSULTORIA INFRAESTRUCTURA",
+            "itemId" : {"$oid":"5bda6742fccaa442182c4f73"}
+        },
+        {
+            "_id" : {"$oid":"5bda77c9fccaa442182c4f86"},
+            "elementName" : "Series",
+            "elementId" : {"$oid":"5bda6685fccaa442182c4f70"},
+            "itemName" : "PROYECTOS",
+            "itemId" : {"$oid":"5bda66eefccaa442182c4f71"}
+        }
+    ],
+    "name" : "120-01-02 CONTRATOS DE PRESTACIÓN DE SERVICIOS",
+    "code" : "02",
+    "managementTime" : 5,
+    "timeInCentral" : 5,
+    "informationSystem" : null,
+    "url" : null,
+    "physicalAdministrator" : {"$oid":"5bb175bd050a951447e07128"},
+    "digitalAdministrator" : null,
+    "notes" : "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown pri",
+    "state" : "Activo",
+    "tenantId" : "5bb174976fe56d125f709f40"
+},
+{
+    "_id" : {"$oid":"5bda7822fccaa442182c4f88"},
+    "documentsTypes" : [],
+    "folders" : [],
+    "files" : [],
+    "finalDisposition" : [
+        "Selección y eliminacón"
+    ],
+    "typeFormat" : [
+        "Electrónico"
+    ],
+    "processFiling" : [
+        "CONTRATOS DE SUMINISTRO DE COMBUSTIBLE"
+    ],
+    "typesProtection" : [],
+    "forms" : [
+        "Análisis de impacto"
+    ],
+    "filenameExtension" : [
+        "xmls",
+        "pdf",
+        "docx"
+    ],
+    "teamsWork" : [
+      {"$oid":"5bda70ea6e4fad189b0084fb"}
+    ],
+    "externalFormat" : [],
+    "recoveryMethod" : [],
+    "managementFiling" : [],
+    "centralFiling" : [],
+    "documents" : [
+        "PR-123: Elicitación"
+    ],
+    "processes" : [
+        "Gestion de soporte"
+    ],
+    "indexMark" : [
+        "Cliente"
+    ],
+    "templates" : [
+        {"$oid":"5bbe11f66b032f2b900617da"},
+        {"$oid":"5bbe12066b032f2b900617db"}
+    ],
+    "organization" : [
+        {
+            "_id" : {"$oid":"5bda7822fccaa442182c4f8a"},
+            "elementName" : "Dependencia productora",
+            "elementId" : {"$oid":"5bda6454645e6b2e6026e1c0"},
+            "itemName" : "GERENCIA DE CONSULTORIA INFRAESTRUCTURA",
+            "itemId" : {"$oid":"5bda6742fccaa442182c4f73"}
+        },
+        {
+            "_id" : {"$oid":"5bda7822fccaa442182c4f89"},
+            "elementName" : "Series",
+            "elementId" : {"$oid":"5bda6685fccaa442182c4f70"},
+            "itemName" : "PROYECTOS",
+            "itemId" : {"$oid":"5bda66eefccaa442182c4f71"}
+        }
+    ],
+    "name" : "120-01-03 CONTRATOS DE SUMINISTRO DE COMBUSTIBLE",
+    "code" : "03",
+    "managementTime" : 5,
+    "timeInCentral" : 5,
+    "informationSystem" : "Daruma Software",
+    "url" : "www.daruma.com",
+    "physicalAdministrator" : null,
+    "digitalAdministrator" : {"$oid":"5bb178a0050a951447e0712b"},
+    "notes" : "CONTRATOS DE SUMINISTRO DE COMBUSTIBLE",
+    "state" : "Activo",
+    "tenantId" : "5bb174976fe56d125f709f40"
+},
+{
+    "_id" : {"$oid":"5bda788efccaa442182c4f8b"},
+    "documentsTypes" : [],
+    "folders" : [],
+    "files" : [],
+    "finalDisposition" : [
+        "Selección y eliminacón",
+        "Digitalización y conservación"
+    ],
+    "typeFormat" : [
+        "Electrónico"
+    ],
+    "processFiling" : [
+        "COMUNICACIONES INTERNAS"
+    ],
+    "typesProtection" : [],
+    "forms" : [
+        "Análisis de impacto"
+    ],
+    "filenameExtension" : [
+        "xmls",
+        "pdf",
+        "docx"
+    ],
+    "teamsWork" : [
+      {"$oid":"5bda70c86e4fad189b0084f6"}
+    ],
+    "externalFormat" : [],
+    "recoveryMethod" : [],
+    "managementFiling" : [],
+    "centralFiling" : [],
+    "documents" : [
+        "PR-123: Elicitación"
+    ],
+    "processes" : [
+        "Gestion de soporte"
+    ],
+    "indexMark" : [
+        "Cliente",
+        "Producto"
+    ],
+    "templates" : [
+      {"$oid":"5bbe11f66b032f2b900617da"}
+    ],
+    "organization" : [
+        {
+            "_id" : {"$oid":"5bda788efccaa442182c4f8d"},
+            "elementName" : "Dependencia productora",
+            "elementId" : {"$oid":"5bda6454645e6b2e6026e1c0"},
+            "itemName" : "GERENCIA DE CONSULTORIA INFRAESTRUCTURA",
+            "itemId" : {"$oid":"5bda6742fccaa442182c4f73"}
+        },
+        {
+            "_id" : {"$oid":"5bda788efccaa442182c4f8c"},
+            "elementName" : "Series",
+            "elementId" : {"$oid":"5bda6685fccaa442182c4f70"},
+            "itemName" : "COMUNICACIONES",
+            "itemId" : {"$oid":"5bda6783fccaa442182c4f75"}
+        }
+    ],
+    "name" : "120-02-01 COMUNICACIONES INTERNAS",
+    "code" : "01",
+    "managementTime" : 5,
+    "timeInCentral" : 5,
+    "informationSystem" : "Daruma Software",
+    "url" : "www.daruma.com",
+    "physicalAdministrator" : null,
+    "digitalAdministrator" : {"$oid":"5bb178a0050a951447e0712b"},
+    "notes" : "COMUNICACIONES INTERNAS",
+    "state" : "Activo",
+    "tenantId" : "5bb174976fe56d125f709f40"
+},
+{
+    "_id" : {"$oid":"5bda791cfccaa442182c4f8e"},
+    "documentsTypes" : [],
+    "folders" : [],
+    "files" : [],
+    "finalDisposition" : [
+        "Selección y eliminacón"
+    ],
+    "typeFormat" : [
+        "Electrónico"
+    ],
+    "processFiling" : [
+        "ACUERDO CONSORCIALES OPERATIVO"
+    ],
+    "typesProtection" : [],
+    "forms" : [
+        "Análisis de impacto",
+        "Clasificacion de causas"
+    ],
+    "filenameExtension" : [
+        "xmls",
+        "pdf",
+        "docx"
+    ],
+    "teamsWork" : [
+      {"$oid":"5bda71106e4fad189b008500"}
+    ],
+    "externalFormat" : [],
+    "recoveryMethod" : [],
+    "managementFiling" : [],
+    "centralFiling" : [],
+    "documents" : [
+        "PR-123: Elicitación"
+    ],
+    "processes" : [
+        "Gestion de soporte"
+    ],
+    "indexMark" : [
+        "Cliente"
+    ],
+    "templates" : [
+      {"$oid":"5bd87c75fa4c595980b1a970"}
+    ],
+    "organization" : [
+        {
+            "_id" : {"$oid":"5bda791cfccaa442182c4f90"},
+            "elementName" : "Dependencia productora",
+            "elementId" : {"$oid":"5bda6454645e6b2e6026e1c0"},
+            "itemName" : "GERENCIA DE CONSULTORIA INFRAESTRUCTURA",
+            "itemId" : {"$oid":"5bda6742fccaa442182c4f73"}
+        },
+        {
+            "_id" : {"$oid":"5bda791cfccaa442182c4f8f"},
+            "elementName" : "Series",
+            "elementId" : {"$oid":"5bda6685fccaa442182c4f70"},
+            "itemName" : "CONSORCIOS",
+            "itemId" : {"$oid":"5bda6798fccaa442182c4f76"}
+        }
+    ],
+    "name" : "120-03-01 ACUERDO CONSORCIALES OPERATIVO",
+    "code" : "01",
+    "managementTime" : 5,
+    "timeInCentral" : 5,
+    "informationSystem" : "Daruma Software",
+    "url" : "www.daruma.com ed",
+    "physicalAdministrator" : null,
+    "digitalAdministrator" : {"$oid":"5bb178a0050a951447e0712b"},
+    "notes" : "ACUERDO CONSORCIALES OPERATIVO",
+    "state" : "Activo",
+    "tenantId" : "5bb174976fe56d125f709f40"
+},
+{
+    "_id" : {"$oid":"5bda7a00fccaa442182c4f91"},
+    "documentsTypes" : [],
+    "folders" : [],
+    "files" : [],
+    "finalDisposition" : [
+        "Selección y eliminacón"
+    ],
+    "typeFormat" : [
+        "Electrónico"
+    ],
+    "processFiling" : [
+        "INFORMES DE GESTION"
+    ],
+    "typesProtection" : [],
+    "forms" : [
+        "Análisis de impacto"
+    ],
+    "filenameExtension" : [
+        "xmls",
+        "pdf",
+        "docx"
+    ],
+    "teamsWork" : [
+      {"$oid":"5bda71106e4fad189b008500"}
+    ],
+    "externalFormat" : [],
+    "recoveryMethod" : [],
+    "managementFiling" : [],
+    "centralFiling" : [],
+    "documents" : [
+        "PR-123: Elicitación"
+    ],
+    "processes" : [
+        "Gestion de soporte"
+    ],
+    "indexMark" : [
+        "Cliente",
+        "Producto"
+    ],
+    "templates" : [
+      {"$oid":"5bd87c75fa4c595980b1a970"}
+    ],
+    "organization" : [
+        {
+            "_id" : {"$oid":"5bda7a00fccaa442182c4f93"},
+            "elementName" : "Dependencia productora",
+            "elementId" : {"$oid":"5bda6454645e6b2e6026e1c0"},
+            "itemName" : "GERENCIA DE CONSULTORIA INFRAESTRUCTURA",
+            "itemId" : {"$oid":"5bda6742fccaa442182c4f73"}
+        },
+        {
+            "_id" : {"$oid":"5bda7a00fccaa442182c4f92"},
+            "elementName" : "Series",
+            "elementId" : {"$oid":"5bda6685fccaa442182c4f70"},
+            "itemName" : "INFORMES",
+            "itemId" : {"$oid":"5bda67bbfccaa442182c4f77"}
+        }
+    ],
+    "name" : "120-04-01 INFORMES DE GESTION",
+    "code" : "01",
+    "managementTime" : 5,
+    "timeInCentral" : 5,
+    "informationSystem" : "Jira",
+    "url" : "www.daruma.com ed",
+    "physicalAdministrator" : null,
+    "digitalAdministrator" : {"$oid":"5bb178a0050a951447e0712b"},
+    "notes" : "INFORMES DE GESTION",
+    "state" : "Activo",
+    "tenantId" : "5bb174976fe56d125f709f40"
+},
+{
+    "_id" : {"$oid":"5bda7a47fccaa442182c4f94"},
+    "documentsTypes" : [],
+    "folders" : [],
+    "files" : [],
+    "finalDisposition" : [
+        "Selección y eliminacón",
+        "Digitalización y conservación"
+    ],
+    "typeFormat" : [
+        "Electrónico"
+    ],
+    "processFiling" : [
+        "GESTION ADMINISTRATIVA"
+    ],
+    "typesProtection" : [],
+    "forms" : [
+        "Análisis de impacto"
+    ],
+    "filenameExtension" : [
+        "xmls",
+        "pdf",
+        "docx"
+    ],
+    "teamsWork" : [
+        {"$oid":"5bda71106e4fad189b008500"}
+    ],
+    "externalFormat" : [],
+    "recoveryMethod" : [],
+    "managementFiling" : [],
+    "centralFiling" : [],
+    "documents" : [
+        "PR-123: Elicitación"
+    ],
+    "processes" : [
+        "Gestion de soporte"
+    ],
+    "indexMark" : [
+        "Cliente",
+        "Producto"
+    ],
+    "templates" : [
+        {"$oid":"5bbe11f66b032f2b900617da"},
+        {"$oid":"5bbe12066b032f2b900617db"}
+    ],
+    "organization" : [
+        {
+            "_id" : {"$oid":"5bda7a47fccaa442182c4f96"},
+            "elementName" : "Dependencia productora",
+            "elementId" : {"$oid":"5bda6454645e6b2e6026e1c0"},
+            "itemName" : "GERENCIA DE CONSULTORIA INFRAESTRUCTURA",
+            "itemId" : {"$oid":"5bda6742fccaa442182c4f73"}
+        },
+        {
+            "_id" : {"$oid":"5bda7a47fccaa442182c4f95"},
+            "elementName" : "Series",
+            "elementId" : {"$oid":"5bda6685fccaa442182c4f70"},
+            "itemName" : "GESTIÓN",
+            "itemId" : {"$oid":"5bda67dcfccaa442182c4f78"}
+        }
+    ],
+    "name" : "120-05-01 GESTION ADMINISTRATIVA",
+    "code" : "01",
+    "managementTime" : 5,
+    "timeInCentral" : 5,
+    "informationSystem" : "Daruma Software",
+    "url" : "www.daruma.com",
+    "physicalAdministrator" : null,
+    "digitalAdministrator" : {"$oid":"5bb178a0050a951447e0712b"},
+    "notes" : "GESTION ADMINISTRATIVA",
+    "state" : "Activo",
+    "tenantId" : "5bb174976fe56d125f709f40"
+}
+]

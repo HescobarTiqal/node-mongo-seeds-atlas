@@ -1,17 +1,17 @@
 {
-  "name": "node-mongo-seeds",
+  "name": "node-mongo-seeds-atalas",
   "version": "3.1.0",
   "description": "A tool to populate a mongo db from json files",
   "repository": {
     "type": "git",
-    "url": "https://github.com/toymachiner62/node-mongo-seeds"
+    "url": "https://github.com/HescobarTiqal/node-mongo-seeds-atlas"
   },
   "keywords": [
     "node",
     "mongo",
     "seed"
   ],
-  "author": "Tom Caflisch <tomcaflisch@gmail.com>",
+  "author": "Hescobar <hescobar@darumasoftware.com>",
   "main": "./lib/seed.js",
   "bin": {
     "seed": "./bin/seed",
